@@ -6,3 +6,10 @@ michael.bruneau@mths.ca
 
 I'm michael I'm studying computer enginering. 
 
+skills
+
+- basic Typescript code
+
+- basic Python code
+
+my work 

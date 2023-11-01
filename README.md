@@ -21,3 +21,7 @@ https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-11-michael-bruneau
 https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-08-michael-bruneau
 
 https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-09-michael-bruneau
+
+https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-06-michael-bruneau
+
+https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-03-michael-bruneau

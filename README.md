@@ -16,5 +16,6 @@ my work
 
 https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-10-michael-bruneau
 
-https://classroom.github.com/assignment-invitations/d0df471195b3d191d624e5af08560506/status
+https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-11-michael-bruneau
 
+https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-08-michael-bruneau

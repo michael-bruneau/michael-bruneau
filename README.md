@@ -14,6 +14,7 @@ skills
 
 my work 
 
-checks light level and light up neopixels
-
 https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-10-michael-bruneau
+
+https://classroom.github.com/assignment-invitations/d0df471195b3d191d624e5af08560506/status
+

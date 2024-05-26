@@ -4,7 +4,7 @@ michael.bruneau@mths.ca
 
 ![Github profile](https://github.com/michael-bruneau/michael-bruneau/assets/144264158/7f26f360-9aad-42a8-a29d-c2e6656a4b22)
 
-### I'm Michael. I'm studying computer science and enginering. 
+###  I'm motivated and ambitious to succeed as a student in high school. I'm eager to learn as much as I can in programming software and hardware to work as a computer engineer.
 
 skills
 

@@ -2,7 +2,7 @@ michael.bruneau@mths.ca
 
 ![image](https://github.com/michael-bruneau/michael-bruneau/assets/144264158/1a213301-14fd-40a0-a8f1-007576052fd3)
 
-![Screenshot_26-5-2024_12435_classroom google com](https://github.com/michael-bruneau/michael-bruneau/assets/144264158/ccd90ea9-fbd5-4496-8493-d148c186bb81)
+![Screenshot_26-5-2024_121628_classroom google com](https://github.com/michael-bruneau/michael-bruneau/assets/144264158/c220619d-bb2f-4899-82de-cdd401b02fbf)
 
 
 ### Hi there 👋 I'm Michael 

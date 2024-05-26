@@ -4,7 +4,7 @@ michael.bruneau@mths.ca
 
 ### Hi there 👋 I'm Michael 
 
-I'm michael I'm studying computer enginering. 
+I'm michael I'm studying computer science and enginering. 
 
 skills
 

@@ -1,6 +1,8 @@
 
 michael.bruneau@mths.ca
 
+Gade fo grade 10
+
 ![image](https://github.com/michael-bruneau/michael-bruneau/assets/144264158/1a213301-14fd-40a0-a8f1-007576052fd3)
 
 ![Github profile](https://github.com/michael-bruneau/michael-bruneau/assets/144264158/7f26f360-9aad-42a8-a29d-c2e6656a4b22)

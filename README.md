@@ -16,7 +16,7 @@ skills
 - basic Python code
 
 
-my grade 10 work
+my grade 10 work robotics
 
 https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-10-michael-bruneau
 
@@ -39,7 +39,7 @@ https://github.com/michael-bruneau/car-controller-not-private
 https://github.com/michael-bruneau/recieving-code-not-private-version/
 
 
-my grade 11 work so far
+my grade 11 work for python so far
 
 https://github.com/michael-bruneau/Python-Game
 

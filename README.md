@@ -16,7 +16,7 @@ Skills
 - Python code
 
 
-My grade 10 work robotics
+My grade 10 Robotics Projects:
 
 https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-10-michael-bruneau
 

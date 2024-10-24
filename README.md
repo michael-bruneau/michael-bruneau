@@ -7,16 +7,16 @@ Grade for grade 10
 
 ![Github profile](https://github.com/michael-bruneau/michael-bruneau/assets/144264158/7f26f360-9aad-42a8-a29d-c2e6656a4b22)
 
-###  I'm motivated and ambitious to succeed as a student in high school. I'm eager to learn as much as I can in programming software and hardware to work as a computer engineer.
+###  I am motivated and ambitious to succeed as a high school student. I am eager to learn as much as I can about programming software and hardware to pursue a career as a computer engineer.
 
 skills
 
-- basic Typescript code
+- Basic Typescript code
 
-- basic Python code
+- Python code
 
 
-my grade 10 work robotics
+My grade 10 work robotics
 
 https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-10-michael-bruneau
 

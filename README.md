@@ -1,5 +1,4 @@
 
-GRADE 10
 michael.bruneau@mths.ca
 
 ![image](https://github.com/michael-bruneau/michael-bruneau/assets/144264158/1a213301-14fd-40a0-a8f1-007576052fd3)
@@ -14,7 +13,8 @@ skills
 
 - basic Python code
 
-my work 
+
+my grade 10 work
 
 https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-10-michael-bruneau
 
@@ -37,7 +37,7 @@ https://github.com/michael-bruneau/car-controller-not-private
 https://github.com/michael-bruneau/recieving-code-not-private-version/
 
 
-GRADE 11
+my grade 11 work so far
 
 https://github.com/michael-bruneau/Python-Game
 

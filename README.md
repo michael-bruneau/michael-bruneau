@@ -9,7 +9,9 @@ Grade for grade 10
 
 ###  I am motivated and ambitious to succeed as a high school student. I am eager to learn as much as I can about programming software and hardware to pursue a career as a computer engineer.
 
-Skills
+
+  Operating Systems
+  https://www.raspberrypi.com/
 
 - Basic Typescript code
 

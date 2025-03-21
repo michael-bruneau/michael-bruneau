@@ -11,7 +11,8 @@ Grade for grade 10
 
 
   Operating Systems
- 
+
+ ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 - Basic Typescript code
 

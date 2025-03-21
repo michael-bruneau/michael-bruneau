@@ -11,7 +11,7 @@ Grade for grade 10
 
 
   Operating Systems
-  https://www.raspberrypi.com/
+ 
 
 - Basic Typescript code
 

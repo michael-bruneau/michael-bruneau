@@ -12,7 +12,8 @@ Grade for grade 10
 
   Operating Systems
 
- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+ <a href="https://linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"></a>
+ <a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi"></a>
 
 - Basic Typescript code
 

@@ -23,6 +23,8 @@ Computer Science
 
 - <a href="https://github.com/search?q=user%3Amichael-bruneau+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-%2300599C.svg?logo=cpp2&logoColor=white"></a>
 
+-  <a href="https://github.com/search?q=user%3Amichael-bruneau+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white"></a>
+
 My grade 10 Robotics Projects:
 
 https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-10-michael-bruneau

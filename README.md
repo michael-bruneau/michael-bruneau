@@ -1,8 +1,8 @@
 
 michael.bruneau@mths.ca
 
-[![image](https://github.com/user-attachments/assets/700b16b1-b1d0-4dee-a9e5-509ad08527bb)
-](https://github.com/account)
+[![image](https://github.com/user-attachments/assets/700b16b1-b1d0-4dee-a9e5-509ad08527bb)](https://github.com/account)
+
 Grade for grade 10
 
 ![Github profile](https://github.com/michael-bruneau/michael-bruneau/assets/144264158/7f26f360-9aad-42a8-a29d-c2e6656a4b22)

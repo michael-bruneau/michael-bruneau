@@ -1,7 +1,7 @@
 
 michael.bruneau@mths.ca
 
-![image](https://github.com/michael-bruneau/michael-bruneau/assets/144264158/1a213301-14fd-40a0-a8f1-007576052fd3)
+![image](https://github.com/user-attachments/assets/700b16b1-b1d0-4dee-a9e5-509ad08527bb)
 
 Grade for grade 10
 

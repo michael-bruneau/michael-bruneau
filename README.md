@@ -23,21 +23,6 @@ Computer Science
 
 -  <a href="https://github.com/search?q=user%3Amichael-bruneau+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white"></a>
 
-My grade 10 Robotics Projects:
-
-https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-10-michael-bruneau
-
-https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-11-michael-bruneau
-
-https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-08-michael-bruneau
-
-https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-06-michael-bruneau
-
-https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-03-michael-bruneau
-
-https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-2-15-michael-bruneau
-
-https://github.com/MTHS-TEJ2O-1-2023/TEJ2O-Unit-5-05-michael-bruneau
 
 The two GitHubs repositories below work together on two different microbits to create a remote control car
 
@@ -46,11 +31,9 @@ https://github.com/michael-bruneau/car-controller-not-private
 https://github.com/michael-bruneau/recieving-code-not-private-version/
 
 
-my grade 11 work for python so far
+my grade 11 work for Python so far
 
 https://github.com/michael-bruneau/Python-Game
-
-New work is done on MJ159023 GitHub account 
 
 https://github.com/SMT-CS/canadian-income-tax-program-MJ159023
 

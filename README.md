@@ -3,7 +3,7 @@ michael.bruneau@mths.ca
 
 ![144264158 (1)](https://github.com/user-attachments/assets/e37b5f95-b334-41e6-a039-6b8379f46a8e)
 
-Grade for grade 10
+Marks for grade 10.
 
 ![Github profile](https://github.com/michael-bruneau/michael-bruneau/assets/144264158/7f26f360-9aad-42a8-a29d-c2e6656a4b22)
 
@@ -31,7 +31,7 @@ https://github.com/michael-bruneau/car-controller-not-private
 https://github.com/michael-bruneau/recieving-code-not-private-version/
 
 
-my grade 11 work for Python so far
+My grade 11 work for Python so far.
 
 https://github.com/michael-bruneau/Python-Game
 

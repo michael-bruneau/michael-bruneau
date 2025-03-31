@@ -1,7 +1,7 @@
 
 michael.bruneau@mths.ca
 
-[https://avatars.githubusercontent.com/u/144264158?s=400&u=28a0feeb64158453f2198974f11fec761ae1af61&v=4](https://github.com/account)
+[[https://avatars.githubusercontent.com/u/144264158?s=400&u=28a0feeb64158453f2198974f11fec761ae1af61&v=4](https://github.com/account)](https://github.com/account)
 
 Grade for grade 10
 
